@@ -57,16 +57,16 @@ calli.on("message", message => {
       .setImage(`https://media.discordapp.net/attachments/829751738717306920/835146132023279616/image0.png`)
       .setDescription(`
 👑 OwnerCode 
-(ᖴ𝗂𝗂᙭#9480,AMxSakran^#3799)
+(flyBERLIN#4671)
 🤖 Securitybots 
-(Anti Vandalism#6064)
+(Security#1280)
       `)
       .setThumbnail(`https://media.discordapp.net/attachments/829751738717306920/835145114519208017/image0.gif`)
     message.channel.send({ embed });
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("تــــــۆکــیــن لێرە دانێ")
+calli.login("OTkyMDU1NzM0MzcwMDQ2MDUy.GkEVFt.KuKappPboJIsaKt_RdPtIMs2WBHSkYeBx6vRoQ")
 ///////////////////////////////////////////////////////////////////////////////
 const FiiXenabled  = "";
 const FiiXdisabled = "";
